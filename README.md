@@ -1,6 +1,6 @@
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyanyun&show_icons=true&theme=merko&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyanyun&show_icons=true&theme=graywhite&count_private=true)
 
 ---
 
